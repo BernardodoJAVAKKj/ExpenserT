@@ -28,5 +28,12 @@ The expense controller is intended to allow the user to add and manage their exp
 ---
 
 ## 📦 Project Structure
+📁 src
+┣ 📄 Main.java ← Main class with menu and user interaction
+┣ 📄 Expenser.java ← Class representing an expense
+┣ 📄 ExpenserManager.java ← Expense manager (add, update, delete)
+┣ 📄 RegisterExpenser.java ← Handles user input for new expenses
+┗ 📄 Csv.java ← Exports expenses to CSV file
+
 
 
