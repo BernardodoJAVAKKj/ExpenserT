@@ -13,7 +13,7 @@ The expense controller is intended to allow the user to add and manage their exp
 - 🔄 Update an existing expense
 - ❌ Delete an expense
 - 📄 List all expenses
-- 📤 Export expenses to CSV
+- 📤 Export expenses to CSV (Template)
 - 🚪 Exit safely
 
 ---
